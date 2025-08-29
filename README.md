@@ -1,5 +1,5 @@
 ## ✨ *Hey there! I'm Rishav Raj* 👋  
-💻 *DSA | Database | Machine Learning | Data Science | Data Analysis | Software Development Engineer*  
+💻 *DSA | Database | GenAI | AWS | Machine Learning | Data Science | Data Analysis | Software Development Engineer*  
 
 ---
 
